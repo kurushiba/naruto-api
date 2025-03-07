@@ -23,13 +23,13 @@
 
 3. サーバーを起動します：
    ```bash
-   node api.js
+   npm run dev
    ```
 
 サーバーが正常に起動すると、以下のメッセージが表示されます：
 
 ```
-Server is running on port 3000
+Server is running on port 80
 ```
 
 ## API の使用方法

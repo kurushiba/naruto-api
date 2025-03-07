@@ -4,7 +4,7 @@
   "description": "このプロジェクトは、NARUTO のキャラクター情報を提供する RESTful API です。",
   "main": "api.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node api.js"
   },
   "keywords": [],
   "author": "",
